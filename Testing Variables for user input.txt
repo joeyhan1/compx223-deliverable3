@@ -1,0 +1,13 @@
+Correct Data:
+
+Speeding
+130
+15-05-2022 18:32:00
+614223004
+Rainy
+Bright
+null
+MKL090
+1
+
+Wrong Data:

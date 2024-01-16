@@ -1,0 +1,19 @@
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csprojAssemblyReference.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\bin\Debug\DatabaseDemo.exe
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\ChartDemo.csprojAssemblyReference.cache
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\ChartDemo.csproj.CoreCompileInputs.cache
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\DatabaseDemo.exe
+C:\Users\Joey Han\Desktop\Uni Stuff\Year 2 First Semester\COMPX223\Project Deliverable 3\ChartDemo\obj\Debug\DatabaseDemo.pdb
